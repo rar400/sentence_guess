@@ -3,7 +3,6 @@
 #The monkeys are not very smart and must use the word_assist function provided below to pick their words, they must also
 #Take turns one at a time communicating with the zoo keeper.
 #You have 2 goals, make a working simulation, and make your simulation take the least amount of time (try to beat the class)
-#help by eldin pita
 
 
 import random
